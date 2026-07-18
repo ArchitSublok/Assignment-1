@@ -1,1 +1,0 @@
-System.out.print("Enter an integer: ");
